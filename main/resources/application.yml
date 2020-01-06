@@ -1,9 +1,9 @@
 amazon:
   access:
-    key: AKIAJ2M4Q3TC64RPDBYA
-    secret-key: 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
-  region: ap-south-1
+    key: <access key id >
+    secret-key: <access secret key aws>
+  region: <region of dynamo db>
   end-point:
     url: dynamodb.ap-south-1.amazonaws.com
 server:
-  port: 9001
+  port: <defined port of yours>
